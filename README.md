@@ -1,7 +1,10 @@
 # ClinicalScorecard
-Our team's repo for the National Clinical NLP Challenge 2c2 Task 3 on Concept Normalization!
+### Our team's repo for the National Clinical NLP Challenge 2c2 Task 3 on Concept Normalization!
 
-# Information on Package and Folders
+# Description of Task from n2c2 Website
+
+
+# Information on Data Folders
 more at data/README.md for data
 currently 
 * train_text has training free text files
