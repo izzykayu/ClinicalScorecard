@@ -2,7 +2,11 @@
 Our team's repo for the National Clinical NLP Challenge 2c2 Task 3 on Concept Normalization!
 
 # Information on Package and Folders
-
+more at data/README.md for data
+currently 
+* train_text has training free text files
+* train_norm has annotations (labels)
+* 
 
 # Information on HPC Clusters
 # NYU HPC
@@ -287,8 +291,8 @@ ssh hpcgwtunnel
 Once executed you'll see something like this:
 
 ```bash
-Last login: Wed Nov  8 12:15:48 2017 from 74.65.201.238
-cv965@hpc-bastion1~>$
+Last login: Sat May 25 17:53:20 2019 from 10.16.178.156
+im1247@hpc-bastion1~>$
 ```
 
 This will use the settings in `/.ssh/config` to create a tunnel. **You need to leave this open when transfering files**. Leave this terminal tab open and open a new tab to continue the process.
