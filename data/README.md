@@ -5,3 +5,7 @@ This folder contains data for n2c2 as well as additional resources.
 * train_note
   *free text notes of training set*
 * train_norm
+ *annotations of text*
+ 
+ # images
+ 
